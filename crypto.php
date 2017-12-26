@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Encoder/Decoder</title>
+		<title>PHP mini crypto toolkit</title>
 	</head>
 	<body>
 		<?= 'Your IP: '. $_SERVER['REMOTE_ADDR'] ?>
